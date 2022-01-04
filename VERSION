@@ -1,1 +1,1 @@
-$Format:%h %(describe:match=v*)$
+$Format:%h %(describe:match=v*:tags=true)$
